@@ -100,5 +100,7 @@ ASTRO (정연수(202255671) , 김현태(202055529))
 # 유튜브 링크 : target 인식 후 자동 하강 , 옆에서 본 드론 움직임 
  https://youtu.be/RfEyx5kR5wU
 
+# 유튜브 링크 : Gazebo 를 이용한 시뮬레이션 + mission planner 도 함께 
+https://www.youtube.com/watch?v=XjWCKADeDpY
 
 
